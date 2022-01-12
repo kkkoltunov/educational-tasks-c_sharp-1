@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{4494BEA1-C2E1-47A2-9BD7-753B06589088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourPlaner", "YourPlaner\YourPlaner.csproj", "{75CD4B64-763F-45FA-A27D-71FDB34D8C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4494BEA1-C2E1-47A2-9BD7-753B06589088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4494BEA1-C2E1-47A2-9BD7-753B06589088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4494BEA1-C2E1-47A2-9BD7-753B06589088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4494BEA1-C2E1-47A2-9BD7-753B06589088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CD4B64-763F-45FA-A27D-71FDB34D8C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CD4B64-763F-45FA-A27D-71FDB34D8C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CD4B64-763F-45FA-A27D-71FDB34D8C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CD4B64-763F-45FA-A27D-71FDB34D8C50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F8E04F-AF64-4511-BCAF-6AF28D1719F0}
+	EndGlobalSection
+EndGlobal
